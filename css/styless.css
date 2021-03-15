@@ -2,11 +2,16 @@
 .navbar-custom {
     background-color: #F23030
 }
+.navbar-text {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+}
 .navbar-brand {
-    background-repeat: no-repeat;
-    background-image: url(file:///Macintosh%20HD/Users/rouidasherif/Desktop/IMEM/Year%202/Projects/PRJ%204%20/GitHub/PRJ3-chapter-5/images/fork.svg);
-    background-size: 40px auto;
-    padding-left: 55px;
+ 
+    padding-left: 80 px;
     background-position: 13px center;
 }
 #hero {
