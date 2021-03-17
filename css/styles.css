@@ -18,17 +18,22 @@
     padding-left: 0px;
     position: relative;
     height: 0px;	
+	
+}
+.img-fluid {
+    width: 3500px;
+    height: auto;
 }
 
 #heroh1 {
     position: absolute;
     color: #F3D74C;
-    font-size: 1rem;
+    font-size: 4rem;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-weight: 800;
     text-shadow: 1px 2px 6px;
-    right: 103px;
-    top: 102px;
+    top: 222px;
+    right: 276px;
 }
 
 
