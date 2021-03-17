@@ -13,69 +13,6 @@
     background-position: 10px center;
     padding-left: 49px;
 }
-#hero {
-    padding-right: 0px;
-    padding-left: 0px;
-    position: relative;
-    height: 0px;
-    font-size: 1rem;
-}
-.img-fluid {
-    width: 3500px;
-    height: auto;
-}
-
-#heroh1 {
-    position: absolute;
-    color: #FFCF01;
-    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-    font-weight: 800;
-    text-shadow: 0px 2px 6px;
-    top: 222px;
-    right: 188px;
-    text-align: center;
-    font-size: large;
-}
-
-#Menubtn {
-    position: absolute;
-    top: 292px;
-    left: 309px;
-}
-
-
-@media screen and (min-width:576) { #heroh1 {position: absolute
-	}
-}
-
-
-@media screen and (min-width:1550px){ .img-fluid {
-    width: 1660px;
-}
-	#heroh1 {
-    position: absolute;
-    top: 288px;
-    left: 233px;
-    font-size: large;
-	}
-	
-	#Menubtn {
-    position: absolute;
-    left: 674px;
-    top: 408px;
-    width: 143px;
-    font-size: x-large;
-}
-}
-
-
-
-@media screen and (min-width:768px){
-	#heroh1 {
-    font-size: 2rem;
-    right: 248px;
-	}
-}
 
 
 .footer {
@@ -91,6 +28,8 @@
 .jumbotron {
     text-align: center;
     color: #FFFFFF;
-    background-image: url(file:///Macintosh%20HD/Users/rouidasherif/Desktop/IMEM/Year%202/Projects/PRJ%204%20/GitHub/PRJ3-chapter-5/images/black_background.jpg);
+    background-image: url("file:///Macintosh%20HD/Users/rouidasherif/Desktop/IMEM/Year%202/Projects/PRJ%204%20/GitHub/PRJ3-chapter-5/images/blackBackgrnd.jpg");
+	
+	
   
 }
