@@ -74,3 +74,10 @@
     right: 224px;
     }
 }
+
+@media screen and (min-width:1550px){
+	#heroh1 {
+    position: absolute;
+    font-size: 7rem;
+    right: 504px;
+	}}
