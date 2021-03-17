@@ -36,12 +36,17 @@
     right: 276px;
 }
 
+.btn-danger .btn {
+    position: absolute;
+}
+
 
 
 .footer {
     text-align: center;
     font-size: 1rem;
     background-color: #F13130;
+    position: absolute;
 }
 
 
