@@ -16,7 +16,8 @@
 #hero {
     padding-right: 0px;
     padding-left: 0px;
-    position: relative; 
+    position: relative;
+    height: 0px;	
 }
 
 #heroh1 {
@@ -75,7 +76,9 @@
     }
 }
 
-@media screen and (min-width:1550px){
+@media screen and (min-width:1550px){ .img-fluid {
+    width: 1855px;
+}
 	#heroh1 {
     position: absolute;
     font-size: 7rem;
