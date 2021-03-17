@@ -26,9 +26,9 @@
 }
 
 #heroh1 {
-    position: absolute;
+    position: fixed;
     color: #F3D74C;
-    font-size: 4rem;
+    font-size: rem;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-weight: 800;
     text-shadow: 1px 2px 6px;
