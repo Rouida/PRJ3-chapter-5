@@ -64,9 +64,8 @@
 }
 	#heroh1 {
     position: absolute;
-    font-size: 6rem;
-    right: 285px;
-    top: 237px;
+    top: 288px;
+    left: 612px;
 	}
 	
 	#Menubtn {
@@ -85,4 +84,11 @@
     font-size: 2rem;
     right: 248px;
 	}
+}
+
+#footer {
+    background-color: #F13130;
+    color: #000000;
+    font-size: large;
+    text-align: center;
 }
