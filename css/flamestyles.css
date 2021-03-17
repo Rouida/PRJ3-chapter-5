@@ -25,10 +25,30 @@
     background-color: #F13130;
 }
 
-.jumbotron {
+#jumbtron2 {
     text-align: center;
     color: #FFFFFF;
    background-color: black;
 	
   
+}
+
+#jumbtron1 {
+    text-align: center;
+    background-image: url(file:///Macintosh%20HD/Users/rouidasherif/Desktop/IMEM/Year%202/Projects/PRJ%204%20/GitHub/PRJ3-chapter-5/images/homepage.jpg);
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #000000;
+    font-style: oblique;
+    text-shadow: 0px 0;
+    background-position: 0% 723px;
+}
+
+.textj {
+    font-style: oblique;
+    font-size: 2rem;
+}
+
+#who {
+    text-align: center;
+    background-color: rgba(235,5,5,0.79);
 }
