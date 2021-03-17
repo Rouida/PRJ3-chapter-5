@@ -22,26 +22,55 @@
 #heroh1 {
     position: absolute;
     color: #DE0100;
-    font-size: 4rem;
+    font-size: 1.4rem;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-    bottom: 385px;
-    right: 407px;
     font-weight: 800;
     text-shadow: 1px 2px 6px #CD1114;
+    bottom: 93px;
+    right: 123px;
 }
 
-#heroh2 {
-    position: absolute;
-    color: #FFD703;
-    font-size: 3rem;
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    bottom: 471px;
-    right: 489px;
-    text-shadow: 0px 0px 9px #FFDD14;
-}
+
 
 .footer {
     text-align: center;
     font-size: 1rem;
-	background-color: #F13130;
+    background-color: #F13130;
+}
+
+
+
+@media screen and (min-width : 552px ){
+#heroh1 {
+    right: 148px;
+    font-size: 3rem;
+    bottom: 163px;
+    position: absolute;
+}
+}
+
+@media screen and (min-width:768px){
+#heroh1 {
+    font-size: 4rem;
+    position: absolute;
+    right: 179px;
+    bottom: 207px;
+}
+}
+
+@media screen and (min-width:992px){
+    #heroh1 {
+    font-size: 5rem;
+    position: absolute;
+    bottom: 306px;
+    }
+}
+
+@media screen and (min-width:1200px){
+    #heroh1 {
+    font-size: 6rem;
+    position: absolute;
+    bottom: 334px;
+    right: 224px;
+    }
 }
