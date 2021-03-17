@@ -26,7 +26,7 @@
 }
 
 #heroh1 {
-    position: fixed;
+    position: absolute;
     color: #F3D74C;
     font-size: 4rem;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
@@ -36,8 +36,10 @@
     right: 276px;
 }
 
-.btn-danger .btn {
-    position: absolute;
+#Menubtn {
+    position: fixed;
+    top: 292px;
+    left: 309px;
 }
 
 
@@ -65,4 +67,22 @@
     font-size: 6rem;
     right: 285px;
     top: 237px;
-	}}
+	}
+	
+	#Menubtn {
+    position: absolute;
+    left: 674px;
+    top: 408px;
+    width: 143px;
+    font-size: x-large;
+}
+}
+
+
+
+@media screen and (min-width:768px){
+	#heroh1 {
+    font-size: 2rem;
+    right: 248px;
+	}
+}
