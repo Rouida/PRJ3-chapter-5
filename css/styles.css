@@ -67,17 +67,9 @@
     }
 }
 
-@media screen and (min-width:1200px){
-    #heroh1 {
-    font-size: 6rem;
-    position: absolute;
-    bottom: 334px;
-    right: 224px;
-    }
-}
 
 @media screen and (min-width:1550px){ .img-fluid {
-    width: 1855px;
+    width: 1660px;
 }
 	#heroh1 {
     position: absolute;
